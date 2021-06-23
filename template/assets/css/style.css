@@ -1,0 +1,43 @@
+body{
+    background-image: url("../images/bg-wall.jpg");
+    background-size: cover;
+}
+.bg-lite{
+    background-color: #fff;
+}
+.login-container{
+    width: 50vw;
+    height: 60vh;
+    margin: auto;
+    margin-top: 10%;
+    
+}
+.log-wall{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.p20{
+    padding: 20px;
+    background-color: #fff;
+}
+.login-title{
+    margin-bottom: 80px;
+    border-bottom: 2px solid #0961da;
+    display: inline-block;
+}
+.bg-wall{
+    background-color: #0961da;
+    height: 100%;
+}
+.wall{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wall h1{
+    color: #fff;
+    padding: 0px;
+    margin: 0px;
+}
